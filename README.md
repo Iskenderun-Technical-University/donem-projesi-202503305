@@ -1,5 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/uelKf0-p)
 ![tablolar](https://user-images.githubusercontent.com/115732425/236646078-bbc47391-e2a8-4034-8ac2-7200619e0376.png)
+
+## Sineman bileti Satis Otomasyonu
+
 Sinema bilet satış programı, sinema salonlarında bilet satış ve seans kaydı işlemlerini kolaylaştırmak ve yönetmek için ideal bir çözüm olabilir. Bu program birçok önemli özelliğe sahip olabilir, bunlar şunları içerebilir:
 
 1- Film ekleme: Yöneticiler, kullanıcı dostu ve görsel bir arayüz kullanarak herhangi bir yeni filimi sisteme ekleyebilirler. Bu özellik, film hakkında ayrıntılı bilgileri içerebilir, örneğin başlık, aktörler, yönetmen, gösterim süresi, tür, değerlendirmeler ve diğerleri. Ayrıca, yöneticiler film gösterim tarihlerini belirleyebilir ve ilgili bilgilerde herhangi bir değişiklik yapabilirler.
