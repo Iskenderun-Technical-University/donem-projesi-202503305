@@ -1,0 +1,16 @@
+
+Sinema bileti otomasyonu, sinema salonunda bilet satışı ve rezervasyon işlemlerinin otomatik olarak yönetildiği bir sistemdir. Bu otomasyon sistemi, kullanıcıların film seçimi yapabilmesini, bilet rezervasyonu yapabilmesini ve biletlerini satın alabilmesini sağlar. Ayrıca, sinema salonu yönetimi için de gerekli işlevleri sunar.
+
+Sinema bileti otomasyonunun temel özellikleri aşağıdaki gibi olabilir:
+
+1-) Film ve seans yönetimi: Sistemdeki film ve seans bilgileri, kullanıcılara sunulur. Kullanıcılar, mevcut filmler arasından seçim yapabilir ve istedikleri seans için bilet alabilir veya rezervasyon yapabilir.
+
+2-) Koltuk seçimi: Kullanıcılar, mevcut boş koltuklar arasından seçim yapabilir ve istedikleri koltuğu seçerek biletlerini satın alabilir veya rezervasyon yapabilir.
+
+3-) Ödeme işlemleri: Kullanıcılar, seçtikleri biletler için ödeme yapabilir. Sistem, güvenli ödeme yöntemleri ile entegre olabilir ve kullanıcılara çeşitli ödeme seçenekleri sunabilir.
+
+4-) Rezervasyon yönetimi: Kullanıcılar, istedikleri film ve seans için rezervasyon yapabilir. Rezervasyonların süresi belirlenebilir ve süre dolmadan önce kullanıcılar biletlerini satın almak zorunda kalabilirler.
+
+5-) Raporlama ve yönetim: Sistem, sinema salonu yöneticilerine satış raporları, seansların doluluk oranları, gelir raporları gibi verileri sunar. Bu sayede yöneticiler, işletme performansını izleyebilir ve kararlarını buna göre yönlendirebilirler.
+
+Sinema bileti otomasyonu, kullanıcıların bilet satın alma ve rezervasyon işlemlerini kolaylaştırırken sinema salonu yönetiminin de daha etkili bir şekilde gerçekleştirilmesine olanak sağlar. Bu sayede, hem kullanıcı deneyimi iyileştirilir hem de işletme süreçleri daha verimli hale getirilir.
